@@ -1,0 +1,6 @@
+{
+  "name": "Maan Maan - Portfolio",
+  "description": "Premium personal portfolio for Maan Maan — Graphic Designer, Video Editor, and Web Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
